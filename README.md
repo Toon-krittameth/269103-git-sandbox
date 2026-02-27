@@ -35,9 +35,14 @@
    * Explain why it's essential for new engineers (in your own words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+  The "ls" command is used to display the list of files and directories in the current working directory. It helps users quickly see the contents of a folder and understand its structure.
+  In my opinion, "ls" is one of the most fundamental commands for new engineers because it allows us to navigate and verify project files efficiently. When working on shared repositories or remote servers, being able to quickly check available files is extremely important. It helps prevent mistakes such as editing or deleting the wrong file.
+  
+  The "cd" command is used to change the current working directory. It allows users to move between folders within the file system.
+  I believe "cd" is essential because most development tasks involve working in multiple directories. Whether we are managing project files, accessing configuration folders, or using Git, we constantly switch between directories. Mastering this command improves efficiency and helps us better understand how file systems are organized.
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+After studying in the ISNE program for one and a half years, I would advise prospective students to be prepared for both theoretical and practical challenges. The courses require consistent effort, especially in programming, networking, and system-related subjects. Regular practice is very important, as technical skills improve through hands-on experience rather than passive learning.
+Time management is also crucial because multiple assignments and projects may overlap. I strongly recommend practicing Linux and Git regularly, as they are widely used in many subjects and are valuable skills for future careers. Lastly, do not hesitate to ask questions and collaborate with classmates. Teamwork and communication skills are just as important as technical knowledge in this field.
